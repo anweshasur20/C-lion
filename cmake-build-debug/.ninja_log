@@ -1,0 +1,6 @@
+# ninja log v5
+1	1248	7209761133491721	CMakeFiles/untitled.dir/main.cpp.obj	6027848726e6061a
+4	377	7218427418052745	build.ninja	657d5495101d9999
+176	405	7209764787844934	untitled.exe	98a54368209235b8
+4	173	7209764785719137	CMakeFiles/untitled.dir/practical-1.c.obj	d9223fc3602b87ef
+5	3557	7215017379750127	CMakeFiles/untitled.dir/Array.c.obj	b9b8b2654f162ded
